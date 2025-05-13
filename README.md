@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @Manikanta2-bit
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me  https://www.linkedin.com/in/manikanta-j-87741a32a
+# Hi, I'm Manikanta J (@Manikanta2-bit)
+
+🎓 I'm a student at Dr. Ambedkar Institute of Technology, pursuing a degree in Information Science Engineering.  
+💡 Passionate about learning, coding, and building projects that solve real-world problems.  
+🌱 Currently learning: Python and exploring web development.  
+🔍 Interested in problem-solving, open-source, and tech innovation.  
+
+## Skills
+- Languages: Python, C, HTML/CSS
+- Tools: Git, GitHub, VS Code
+
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/manikanta-j-87741a32a)
+- Email: manireddymani359@gmail.com
 
 
 

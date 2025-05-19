@@ -1,4 +1,4 @@
-# Hi, I'm Manikanta J (@Manikanta2-bit)
+# Hi, I'm Manikanta J
 
 🎓 I'm a student at Dr. Ambedkar Institute of Technology, pursuing a degree in Information Science Engineering.  
 💡 Passionate about learning, coding, and building projects that solve real-world problems.  

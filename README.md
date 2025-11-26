@@ -1,3 +1,7 @@
+<div align="center" >
+  <img width="400" src="blob:null/46aa8314-4f1e-4be6-be07-5a512ec07960" alt="coding">
+</div>
+
 # Hi, I'm Manikanta J
 
 🎓 I'm a student at Dr. Ambedkar Institute of Technology, pursuing a degree in Information Science Engineering.  

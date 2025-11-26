@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="blob:null/46aa8314-4f1e-4be6-be07-5a512ec07960" alt="coding">
+  <img width="400" src="https://ibb.co/fVpqPzNF" alt="coding">
 </div>
 
 # Hi, I'm Manikanta J

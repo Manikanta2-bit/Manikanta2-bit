@@ -21,26 +21,65 @@
 
 ## Platform
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
+  <p align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
+    margin-bottom=0 px;
 </p>
+    
+- Languages:
+  
+<p align="left">
+  <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50" margin-top=0 px;>
+    <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"  >
+  <img 
+    src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNDQ2MDIsIm5iZiI6MTc2NDI0NDMwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDExNTE0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0YWRkMTYxOGRmNTIyZTc3NTkwYWE1MzE5M2E3NjBlYmRkZGE3YzdlZmI4OGMzYTU1YzhiMmI4ZTQwYWU1ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ekPJMMPQbEUZnb6p27pMJLuTVhjrQm059UykqR89PZ8" width="50"  >
+     <img 
+    src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNDQ2MDIsIm5iZiI6MTc2NDI0NDMwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDExNTE0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzN2U3MjgyYjNiNTc3MzBiMzA4MjY0MmI3YzljMDIyNzAyYjBlNjY2ZjUxZDQ5NGYwODk5NzA4YjQwYjM5NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xDW_pGiJ9eQjGTME3TSbKvbyLpcG390VogMx4yul_38" width="50"  >
+     <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50"  >
+  
+  
+  </p>
 
-- Languages: Python, C, HTML/CSS
-- Tools: Git, GitHub, VS Code
 
+- Tools:
+    <p align="left">
+  <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="40" margin-top=0 px;>
+  <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="50" margin-top=0 px;  background-color=whilte;>
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" margin-top=0 px;>
+</p>
 
 ## Connect with me
 
+ <p align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
+    margin-bottom=0 px;
+</p>
+
 <div align="center" >
-<p align="left">  <a href="https://www.linkedin.com/in/manikanta-j-87741a32a " target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="40" margin-bottom=0 /> 
-  <a href="https://www.instagram.com/mothkur_manireddy__234/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="40"/> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="40"/> <p align="left">
-<a href="https://x.com/Manikanta1k2006" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="40"/> <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="right"
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/manikanta-j-87741a32a " target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" margin-bottom=0 /> 
+  <a href="https://www.instagram.com/mothkur_manireddy__234/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50"/>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50"/>
+      <a href="https://x.com/Manikanta1k2006" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="50"/> 
+      
+  <p align="left"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="right"
 </p>
 </div>
-
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
+</p>
+
+
+
+<p align="center">
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="center"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
+
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
+    margin-bottom=0 px;
 </p>
 
 

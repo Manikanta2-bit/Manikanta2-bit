@@ -91,8 +91,7 @@
     <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50"/>
       <a href="https://x.com/Manikanta1k2006" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="50"/> 
       
-  <p align="left"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="right"
-</p>
+  
 </div>
 
 <p align="left">
@@ -101,9 +100,11 @@
   
 <p align="center">
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="center"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="right"
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" 
-</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" >
+ </p>
+
 
 [![](https://visitcount.itsvg.in/api?id=Manikanta2-bit&icon=0&color=0)](https://visitcount.itsvg.in)
